@@ -225,6 +225,10 @@ hr.style-seven:before {
     border-radius: 20px;
 }
 
+hr.style-seven-hidden {
+    opacity: 0;
+}
+
 .proj-img {
     width: 468px;
     height: 250px;
@@ -282,7 +286,7 @@ hr.style-seven:before {
 }
 
 
-/* target list of items */
+/* scroll animation: target list of items */
 /* .img_dimension:nth-child(2) {
     transition-delay: 500ms;
 }
@@ -301,6 +305,10 @@ hr.style-seven:before {
     transition-delay: 2000ms;
 } */
 
+
+.curser_not_allowed {
+    cursor: not-allowed;
+}
 
 
 
