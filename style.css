@@ -101,7 +101,7 @@ nav a:hover {
     margin: 3px;
     display: grid;
     grid-template-rows: repeat(2, 250px);
-    grid-template-columns: repeat(3, 1fr);
+    grid-template-columns: repeat(3, 491px);
     grid-row-gap: 15px;
     grid-column-gap: 15px;
     text-align: center;
@@ -313,7 +313,7 @@ hr.style-seven-hidden {
 
 .pcontainer {
     position: relative;
-    margin-top: 0px;
+    margin-top: 10px;
     width: 500px;
     height: 250px;
 }
